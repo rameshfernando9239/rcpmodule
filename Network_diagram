@@ -1,9 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2021-07-23T11:36:01.256Z" agent="5.0 (Windows)" etag="V4VGUhmlYaw5iuF1nyK3" version="14.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-23T17:03:36.768Z" agent="5.0 (Windows)" etag="FOXCJMQxbTCJk6SAtxAF" version="14.9.0" type="github">
   <diagram id="64CqoZqYqbVXYbIt-Tat" name="Page-1">
-    <mxGraphModel dx="2031" dy="1057" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1673" dy="871" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="F_vZGFTPHrudf0Ii_Pqk-47" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="810.7" y="290" width="176.2" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="F_vZGFTPHrudf0Ii_Pqk-46" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="873.1" y="120" width="176.2" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="F_vZGFTPHrudf0Ii_Pqk-45" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="143.1" y="372.4" width="176.2" height="110" as="geometry" />
+        </mxCell>
         <mxCell id="F_vZGFTPHrudf0Ii_Pqk-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="580" y="140" as="sourcePoint" />
@@ -142,6 +151,9 @@
         </mxCell>
         <mxCell id="F_vZGFTPHrudf0Ii_Pqk-42" value="172.17.22.101&lt;b&gt;:51197&lt;br&gt;&lt;/b&gt;" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;" vertex="1" parent="1">
           <mxGeometry x="548.8" y="732.4" width="62.400000000000006" height="62.400000000000006" as="geometry" />
+        </mxCell>
+        <mxCell id="F_vZGFTPHrudf0Ii_Pqk-48" value="&lt;font style=&quot;font-size: 13px&quot;&gt;Nodes considered for search query&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="992.4" y="710" width="130" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
