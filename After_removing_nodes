@@ -1,9 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2021-07-23T11:37:42.429Z" agent="5.0 (Windows)" etag="dAfNtMGbuW9orrPAJwrV" version="14.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-23T17:05:16.266Z" agent="5.0 (Windows)" etag="4KrLtA2fBIRqvuuynVYc" version="14.9.0" type="github">
   <diagram id="pmiGsAvYB-aNr2g89lZn" name="Page-1">
     <mxGraphModel dx="2031" dy="1114" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="EPvPQFUE-6WvedPwqPFj-32" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="323.80000000000007" y="137" width="176.2" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="EPvPQFUE-6WvedPwqPFj-31" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="496.00000000000006" y="717" width="176.2" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="EPvPQFUE-6WvedPwqPFj-30" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="810.7" y="298" width="176.2" height="110" as="geometry" />
+        </mxCell>
         <mxCell id="EPvPQFUE-6WvedPwqPFj-10" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=-0.08;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.014;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="EPvPQFUE-6WvedPwqPFj-25" target="EPvPQFUE-6WvedPwqPFj-20">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="710" y="271.2" as="sourcePoint" />
@@ -89,6 +98,9 @@
             <mxPoint x="584" y="680" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="EPvPQFUE-6WvedPwqPFj-33" value="&lt;font style=&quot;font-size: 13px&quot;&gt;Nodes considered for search query&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="992.4" y="710" width="130" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
